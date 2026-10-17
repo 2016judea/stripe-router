@@ -8,6 +8,9 @@
   "demolition-notice": {
     "url": "https://demolition-notice.vercel.app/api/stripe-webhook"
   },
+  "estimate-drafter": {
+    "url": "https://estimate-drafter-mn.vercel.app/api/stripe-webhook"
+  },
   "lear-in-the-margins": {
     "url": "https://lear-in-the-margins.vercel.app/api/stripe-webhook"
   },
@@ -35,8 +38,14 @@
   "opening-cleans": {
     "url": "https://opening-cleans.vercel.app/api/stripe-webhook"
   },
+  "paperwork-sorter": {
+    "url": "https://paperwork-sorter.vercel.app/api/stripe-webhook"
+  },
   "pt-rates": {
     "url": "https://pt-rates.vercel.app/api/stripe-webhook"
+  },
+  "report-from-export": {
+    "url": "https://report-from-export.vercel.app/api/stripe-webhook"
   },
   "review-bookmarks": {
     "url": "https://review-bookmarks.vercel.app/api/stripe-webhook"

@@ -1,0 +1,96 @@
+{
+  "retired": "2026-10-17",
+  "why": "consolidated onto stripe-router after scripts/probe.py --all passed for every product",
+  "endpoints": [
+    {
+      "id": "we_1URdc0BzD4mN8eODB7oMoM4H",
+      "url": "https://opening-cleans.vercel.app/api/stripe-webhook",
+      "description": "opening-cleans",
+      "created": 1792266588
+    },
+    {
+      "id": "we_1URdZtBzD4mN8eODtoE39klA",
+      "url": "https://mn-cannabis-openings.vercel.app/api/stripe-webhook",
+      "description": "mn-cannabis-openings paywall",
+      "created": 1792266457
+    },
+    {
+      "id": "we_1URdZoBzD4mN8eODmjYa1C8j",
+      "url": "https://mpls-opening-soon.vercel.app/api/stripe-webhook",
+      "description": "mpls-opening-soon paywall",
+      "created": 1792266452
+    },
+    {
+      "id": "we_1URdZlBzD4mN8eODlqdf8TgD",
+      "url": "https://mpls-new-rentals.vercel.app/api/stripe-webhook",
+      "description": "mpls-new-rentals paywall",
+      "created": 1792266449
+    },
+    {
+      "id": "we_1URdXzBzD4mN8eODnBgSJgkv",
+      "url": "https://unit-turns-mpls.vercel.app/api/stripe-webhook",
+      "description": "unit-turns-mpls",
+      "created": 1792266339
+    },
+    {
+      "id": "we_1URFWwBzD4mN8eODEbYW0CA3",
+      "url": "https://review-bookmarks.vercel.app/api/stripe-webhook",
+      "description": "review-bookmarks password email",
+      "created": 1792174018
+    },
+    {
+      "id": "we_1URFVhBzD4mN8eODXSQgpqwR",
+      "url": "https://lear-in-the-margins.vercel.app/api/stripe-webhook",
+      "description": "lear-in-the-margins: email the buyer",
+      "created": 1792173941
+    },
+    {
+      "id": "we_1UQsICBzD4mN8eODq6D3KOxo",
+      "url": "https://run-sheet-yard.vercel.app/api/stripe-webhook",
+      "description": "Run Sheet password email",
+      "created": 1792084692
+    },
+    {
+      "id": "we_1UQs7fBzD4mN8eODUp1aQ3Rd",
+      "url": "https://rsra-draft.vercel.app/api/stripe-webhook",
+      "description": "rsra-draft: email the buyer their password",
+      "created": 1792084039
+    },
+    {
+      "id": "we_1UQryABzD4mN8eODKr71FUH5",
+      "url": "https://salon-rates.vercel.app/api/stripe-webhook",
+      "description": "salon-rates paywall",
+      "created": 1792083450
+    },
+    {
+      "id": "we_1UQrxOBzD4mN8eODPwBcjDGj",
+      "url": "https://legacy-requests.vercel.app/api/stripe-webhook",
+      "description": "legacy-requests open asks paywall",
+      "created": 1792083402
+    },
+    {
+      "id": "we_1UQruTBzD4mN8eODwY8mBLJ3",
+      "url": "https://pt-rates.vercel.app/api/stripe-webhook",
+      "description": "pt-rates paywall",
+      "created": 1792083221
+    },
+    {
+      "id": "we_1UQrszBzD4mN8eODM0OLbToK",
+      "url": "https://mn-next-ask.vercel.app/api/stripe-webhook",
+      "description": "MN Next Ask paywall: email the password",
+      "created": 1792083129
+    },
+    {
+      "id": "we_1UQrrIBzD4mN8eODqt4iZEZ1",
+      "url": "https://demolition-notice.vercel.app/api/stripe-webhook",
+      "description": "Demolition Notice: email the buyer their password",
+      "created": 1792083024
+    },
+    {
+      "id": "we_1UQrpxBzD4mN8eODp6z5A0KO",
+      "url": "https://buying-window.vercel.app/api/stripe-webhook",
+      "description": "buying-window paywall: email the password",
+      "created": 1792082941
+    }
+  ]
+}

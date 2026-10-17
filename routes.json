@@ -1,0 +1,56 @@
+{
+  "busy-contractors": {
+    "url": "https://busy-contractors.vercel.app/api/stripe-webhook"
+  },
+  "buying-window": {
+    "url": "https://buying-window.vercel.app/api/stripe-webhook"
+  },
+  "demolition-notice": {
+    "url": "https://demolition-notice.vercel.app/api/stripe-webhook"
+  },
+  "lear-in-the-margins": {
+    "url": "https://lear-in-the-margins.vercel.app/api/stripe-webhook"
+  },
+  "legacy-requests-asks": {
+    "url": "https://legacy-requests.vercel.app/api/stripe-webhook"
+  },
+  "mn-cannabis-openings": {
+    "url": "https://mn-cannabis-openings.vercel.app/api/stripe-webhook"
+  },
+  "mn-next-ask": {
+    "url": "https://mn-next-ask.vercel.app/api/stripe-webhook"
+  },
+  "mpls-new-rentals": {
+    "url": "https://mpls-new-rentals.vercel.app/api/stripe-webhook"
+  },
+  "mpls-opening-soon": {
+    "url": "https://mpls-opening-soon.vercel.app/api/stripe-webhook"
+  },
+  "msp-house-index": {
+    "url": "https://msp-house-index.vercel.app/api/stripe-webhook"
+  },
+  "new-dentists": {
+    "url": "https://new-dentists.vercel.app/api/stripe-webhook"
+  },
+  "opening-cleans": {
+    "url": "https://opening-cleans.vercel.app/api/stripe-webhook"
+  },
+  "pt-rates": {
+    "url": "https://pt-rates.vercel.app/api/stripe-webhook"
+  },
+  "review-bookmarks": {
+    "url": "https://review-bookmarks.vercel.app/api/stripe-webhook"
+  },
+  "rsra-draft": {
+    "url": "https://rsra-draft.vercel.app/api/stripe-webhook"
+  },
+  "run-sheet": {
+    "url": "https://run-sheet-yard.vercel.app/api/stripe-webhook"
+  },
+  "salon-rates": {
+    "url": "https://salon-rates.vercel.app/api/stripe-webhook"
+  },
+  "unit-turns-mpls": {
+    "url": "https://unit-turns-mpls.vercel.app/api/stripe-webhook"
+  }
+}

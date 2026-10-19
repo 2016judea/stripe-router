@@ -17,6 +17,9 @@
   "failing-kitchens": {
     "url": "https://failing-kitchens.vercel.app/api/stripe-webhook"
   },
+  "just-funded": {
+    "url": "https://just-funded.vercel.app/api/stripe-webhook"
+  },
   "kitchen-record": {
     "url": "https://kitchen-record.vercel.app/api/stripe-webhook"
   },

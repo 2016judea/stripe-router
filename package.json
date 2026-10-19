@@ -1,0 +1,7 @@
+{
+  "name": "stripe-router",
+  "private": true,
+  "description": "The one Stripe webhook endpoint for every Brick and Mortar paywall.",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=20" }
+}

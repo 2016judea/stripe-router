@@ -35,6 +35,7 @@ the product and the router, and runs the probe. Keys come from `~/Desktop/bricks
 
 ## Check it
 
+    npm test                          # signed fixtures, dummy secret, stubbed product; never touches Stripe
     python3 scripts/probe.py --all
 
 Posts a signed fake, unpaid session through the live router for every product. Each

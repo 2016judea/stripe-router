@@ -1,4 +1,7 @@
 {
+  "appeal-draft": {
+    "url": "https://appeal-draft.vercel.app/api/stripe-webhook"
+  },
   "busy-contractors": {
     "url": "https://busy-contractors.vercel.app/api/stripe-webhook"
   },

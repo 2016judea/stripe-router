@@ -20,6 +20,9 @@
   "failing-kitchens": {
     "url": "https://failing-kitchens.vercel.app/api/stripe-webhook"
   },
+  "finding-fixer": {
+    "url": "https://finding-fixer.vercel.app/api/stripe-webhook"
+  },
   "just-funded": {
     "url": "https://just-funded.vercel.app/api/stripe-webhook"
   },
@@ -31,6 +34,9 @@
   },
   "legacy-requests-asks": {
     "url": "https://legacy-requests.vercel.app/api/stripe-webhook"
+  },
+  "lot-split": {
+    "url": "https://lot-split.vercel.app/api/stripe-webhook"
   },
   "mn-cannabis-openings": {
     "url": "https://mn-cannabis-openings.vercel.app/api/stripe-webhook"

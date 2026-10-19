@@ -8,8 +8,17 @@
   "demolition-notice": {
     "url": "https://demolition-notice.vercel.app/api/stripe-webhook"
   },
+  "distressed-before-sale": {
+    "url": "https://distressed-before-sale.vercel.app/api/stripe-webhook"
+  },
   "estimate-drafter": {
     "url": "https://estimate-drafter-mn.vercel.app/api/stripe-webhook"
+  },
+  "failing-kitchens": {
+    "url": "https://failing-kitchens.vercel.app/api/stripe-webhook"
+  },
+  "kitchen-record": {
+    "url": "https://kitchen-record.vercel.app/api/stripe-webhook"
   },
   "lear-in-the-margins": {
     "url": "https://lear-in-the-margins.vercel.app/api/stripe-webhook"

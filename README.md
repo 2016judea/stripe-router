@@ -30,7 +30,7 @@ loaded never got their password emailed. Now every product registers here instea
     git add routes.json && git commit -m "route <product>" && git push
 
 It adds the route, appends the product's router secret to its Vercel env, redeploys
-the product and the router, and runs the probe. Keys come from `~/Desktop/bricks/.env`
+the product and the router, and runs the probe. Keys come from `~/Desktop/workspace/bricks/.env`
 (`VERCEL_TOKEN`, `STRIPE_ROUTER_SECRET`, `STRIPE_ROUTER_WEBHOOK_SECRET`).
 
 ## Check it

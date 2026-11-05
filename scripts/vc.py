@@ -1,4 +1,4 @@
-"""Tiny Vercel + keyring helpers shared by the scripts. Needs ~/Desktop/bricks/.env."""
+"""Tiny Vercel + keyring helpers shared by the scripts. Needs ~/Desktop/workspace/bricks/.env."""
 import hashlib
 import hmac
 import json
@@ -10,7 +10,7 @@ from pathlib import Path
 
 TEAM = "team_XnhPzBEcaSfEmZFo9M2isLFY"
 ROOT = Path(__file__).resolve().parent.parent
-KEYRING = Path.home() / "Desktop/bricks/.env"
+KEYRING = Path.home() / "Desktop/workspace/bricks/.env"
 
 
 def env(name):

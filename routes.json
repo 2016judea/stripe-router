@@ -23,6 +23,9 @@
   "finding-fixer": {
     "url": "https://finding-fixer.vercel.app/api/stripe-webhook"
   },
+  "heistclips": {
+    "url": "https://heistclips.com/api/stripe-webhook"
+  },
   "just-funded": {
     "url": "https://just-funded.vercel.app/api/stripe-webhook"
   },

@@ -83,6 +83,9 @@
   "salon-rates": {
     "url": "https://salon-rates.vercel.app/api/stripe-webhook"
   },
+  "substack-magazine": {
+    "url": "https://substack-magazine.vercel.app/api/stripe-webhook"
+  },
   "unit-turns-mpls": {
     "url": "https://unit-turns-mpls.vercel.app/api/stripe-webhook"
   }
